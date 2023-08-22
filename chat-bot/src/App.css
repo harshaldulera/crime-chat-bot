@@ -1,0 +1,34 @@
+.mobile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.chat-container {
+  width: 320px; /* Set the width to match a mobile phone screen */
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.chat {
+  height: 200px;
+  overflow-y: scroll;
+}
+
+.clear-button {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.message {
+  margin: 10px 0;
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}

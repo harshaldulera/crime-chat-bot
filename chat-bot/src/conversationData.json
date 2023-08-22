@@ -1,0 +1,19 @@
+[
+    {
+      "message": "Welcome to the Cybercrime Reporting Bot! Please select an option.",
+      "options": [
+        "Report a cybercrime",
+        "Learn about cybercrime",
+        "Exit"
+      ]
+    },
+    {
+      "message": "Thank you for choosing to report a cybercrime. What type of cybercrime are you reporting?",
+      "options": [
+        "Phishing",
+        "Hacking",
+        "Online fraud"
+      ]
+    }
+  ]
+  
